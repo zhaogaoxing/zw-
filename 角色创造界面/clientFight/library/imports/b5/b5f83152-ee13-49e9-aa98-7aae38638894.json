@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "minusHoverBtn",
+    "texture": "6122d02e-1f1b-490a-9ca3-7fd7c8b58055",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      11,
+      11
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      12,
+      11
+    ],
+    "rotated": 0
+  }
+}

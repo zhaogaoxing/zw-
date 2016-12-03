@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "plusPressBtn",
+    "texture": "618ac968-ddae-4624-b456-683b78329900",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      11,
+      11
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      12,
+      11
+    ],
+    "rotated": 0
+  }
+}

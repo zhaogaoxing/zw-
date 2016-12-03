@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "heroChoose",
+    "texture": "7eeb8ea5-f8d4-40f7-8f5e-2bbbcab09e72",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      648,
+      505
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      648,
+      505
+    ],
+    "rotated": 0
+  }
+}

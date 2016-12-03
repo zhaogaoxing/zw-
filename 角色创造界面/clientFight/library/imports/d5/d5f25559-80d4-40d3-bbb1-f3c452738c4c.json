@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "leftHoverBtn",
+    "texture": "4d1fb91c-16a5-4704-ae27-a97a7e83c2eb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      9,
+      13
+    ],
+    "offset": [
+      -1.5,
+      0
+    ],
+    "originalSize": [
+      12,
+      13
+    ],
+    "rotated": 0
+  }
+}

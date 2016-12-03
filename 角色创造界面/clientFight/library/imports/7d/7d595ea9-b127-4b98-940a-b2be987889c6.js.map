@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": "AAAA,EAAE,CAAC,KAAK,CAAC;AACL,eAAS,EAAE,CAAC,SAAS;;AAErB,cAAU,EAAE;AACR,qBAAa,EAAE,CAAC;KACnB;;;AAGD,UAAM,EAAE,kBAAY,EAEnB;;AAED,QAAI,EAAG,cAAS,UAAU,EAAC;AACvB,YAAI,IAAI,GAAG,IAAI,CAAC,YAAY,CAAC,EAAE,CAAC,SAAS,CAAC,CAAC;AAC3C,eAAO,CAAC,GAAG,CAAC,SAAS,IAAE,UAAU,GAAC,CAAC,CAAA,AAAC,GAAC,UAAU,CAAC,CAAC;AACjD,YAAI,CAAC,aAAa,GAAG,UAAU,CAAC;AAChC,eAAO,CAAC,GAAG,CAAC,IAAI,CAAC,aAAa,CAAC,CAAC;;AAEhC,YAAI,CAAC,IAAI,CAAC,OAAO,GAAC,UAAU,GAAC,IAAI,CAAC,CAAC;KACtC;;;;;CAKJ,CAAC,CAAC",
+  "file": "unknown",
+  "sourcesContent": [
+    "cc.Class({\r\n    extends: cc.Component,\r\n\r\n    properties: {\r\n        curFrameIndex: 0,\r\n    },\r\n\r\n    // use this for initialization\r\n    onLoad: function () {\r\n        \r\n    },\r\n\r\n    show : function(frameIndex){\r\n        var anim = this.getComponent(cc.Animation);\r\n        console.log('角色选择界面第'+(frameIndex+1)+\"角色动画初始化中\");\r\n        this.curFrameIndex = frameIndex;\r\n        console.log(this.curFrameIndex);\r\n        //anim.stop();\r\n        anim.play('walk_'+frameIndex+'_5');\r\n    }\r\n    // called every frame, uncomment this function to activate update callback\r\n    // update: function (dt) {\r\n\r\n    // },\r\n});\r\n"
+  ]
+}

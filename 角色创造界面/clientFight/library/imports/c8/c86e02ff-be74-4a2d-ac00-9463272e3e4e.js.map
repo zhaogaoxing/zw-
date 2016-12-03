@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": "AAAA,EAAE,CAAC,KAAK,CAAC;AACL,eAAS,EAAE,CAAC,SAAS;;AAErB,cAAU,EAAE;;;;;;;;;;KAUX;;;AAGD,UAAM,EAAE,kBAAY,EAEnB;;AAED,iBAAa,EAAE,yBAAU;AACrB,YAAI,WAAW,GAAG,EAAE,CAAC,IAAI,CAAC,0BAA0B,CAAC,CAAC,YAAY,CAAC,eAAe,CAAC,CAAC,aAAa,CAAC;;AAElG,eAAO,CAAC,GAAG,CAAC,EAAE,CAAC,IAAI,CAAC,0BAA0B,CAAC,CAAC,CAAC;AACjD,eAAO,CAAC,GAAG,CAAC,EAAE,CAAC,IAAI,CAAC,0BAA0B,CAAC,CAAC,YAAY,CAAC,eAAe,CAAC,CAAC,CAAC;;AAG/E,cAAM,CAAC,MAAM,CAAC,IAAI,CAAC,aAAa,EAAC,WAAW,CAAC,CAAC;AAC9C,UAAE,CAAC,QAAQ,CAAC,SAAS,CAAC,aAAa,CAAC,CAAC;KACxC;;;;;;CAMJ,CAAC,CAAC",
+  "file": "unknown",
+  "sourcesContent": [
+    "cc.Class({\r\n    extends: cc.Component,\r\n\r\n    properties: {\r\n        // foo: {\r\n        //    default: null,\r\n        //    url: cc.Texture2D,  // optional, default is typeof default\r\n        //    serializable: true, // optional, default is true\r\n        //    visible: true,      // optional, default is true\r\n        //    displayName: 'Foo', // optional\r\n        //    readonly: false,    // optional, default is false\r\n        // },\r\n        // ...\r\n    },\r\n\r\n    // use this for initialization\r\n    onLoad: function () {\r\n        \r\n    },\r\n    \r\n    toConfigScene: function(){\r\n        var heroTexture = cc.find('Canvas/register/animNode').getComponent('myHeroTexture').curFrameIndex;\r\n        \r\n        console.log(cc.find('Canvas/register/animNode'));\r\n        console.log(cc.find('Canvas/register/animNode').getComponent('myHeroTexture'));\r\n        \r\n        \r\n        window.socket.emit('heroTexture',heroTexture);\r\n        cc.director.loadScene('configScene');\r\n    }\r\n\r\n    // called every frame, uncomment this function to activate update callback\r\n    // update: function (dt) {\r\n\r\n    // },\r\n});\r\n"
+  ]
+}

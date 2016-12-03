@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nextPressBtn",
+    "texture": "584b750e-188f-4d52-985b-7071d047da74",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      66,
+      17
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      66,
+      17
+    ],
+    "rotated": 0
+  }
+}

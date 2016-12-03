@@ -1,0 +1,52 @@
+2016-12-03T09:26:52.545Z - normal: Load ~/.CocosCreator/settings.json
+2016-12-03T09:26:52.558Z - normal: checking language setting...
+2016-12-03T09:26:52.558Z - normal: Language: zh
+2016-12-03T09:26:52.559Z - warn: Invalid layout profile, remove old profile and init a new one at: C:\Users\huangyoucai\Desktop\角色创造界面\clientFight\local\layout.windows.json
+2016-12-03T09:26:53.668Z - success: protocol editor-framework registered
+2016-12-03T09:26:53.668Z - success: protocol app registered
+2016-12-03T09:26:53.668Z - success: protocol packages registered
+2016-12-03T09:26:53.669Z - success: protocol theme registered
+2016-12-03T09:26:53.669Z - success: protocol unpack registerred
+2016-12-03T09:26:55.247Z - normal: connected!
+2016-12-03T09:26:55.249Z - normal: Check project C:\Users\huangyoucai\Desktop\角色创造界面\clientFight
+2016-12-03T09:26:55.253Z - normal: Initializing Cocos Creator Editor
+2016-12-03T09:26:55.615Z - normal: Initializing Cocos2d
+2016-12-03T09:26:55.840Z - normal: Initializing Asset Database
+2016-12-03T09:26:55.869Z - success: protocol uuid registerred
+2016-12-03T09:26:55.869Z - success: protocol db registerred
+2016-12-03T09:26:55.869Z - success: protocol thumbnail registerred
+2016-12-03T09:26:55.869Z - normal: Loading editor/builtin packages
+2016-12-03T09:26:55.998Z - success: assets loaded
+2016-12-03T09:26:56.000Z - success: builder loaded
+2016-12-03T09:26:56.003Z - success: hierarchy loaded
+2016-12-03T09:26:56.007Z - success: inspector loaded
+2016-12-03T09:26:56.008Z - success: keystore loaded
+2016-12-03T09:26:56.010Z - success: node-library loaded
+2016-12-03T09:26:56.013Z - success: preferences loaded
+2016-12-03T09:26:56.026Z - success: project-importer loaded
+2016-12-03T09:26:56.028Z - success: project-settings loaded
+2016-12-03T09:26:56.030Z - success: ui-kit loaded
+2016-12-03T09:26:56.032Z - success: ui-grid loaded
+2016-12-03T09:26:56.035Z - success: scene loaded
+2016-12-03T09:26:56.036Z - success: sprite-editor loaded
+2016-12-03T09:26:56.042Z - success: timeline loaded
+2016-12-03T09:26:56.042Z - normal: Loading builtin packages
+2016-12-03T09:26:56.046Z - success: asset-db-debugger loaded
+2016-12-03T09:26:56.047Z - success: code-editor loaded
+2016-12-03T09:26:56.048Z - success: color-picker loaded
+2016-12-03T09:26:56.050Z - success: console loaded
+2016-12-03T09:26:56.052Z - success: package-manager loaded
+2016-12-03T09:26:56.055Z - success: tester loaded
+2016-12-03T09:26:56.057Z - success: ui-kit-preview-extra loaded
+2016-12-03T09:26:56.059Z - success: ui-kit-preview loaded
+2016-12-03T09:26:56.061Z - success: ui-tree loaded
+2016-12-03T09:26:56.102Z - normal: Initializing project C:\Users\huangyoucai\Desktop\角色创造界面\clientFight
+2016-12-03T09:26:56.106Z - normal: Loading packages
+2016-12-03T09:26:56.111Z - normal: Watching packages
+2016-12-03T09:26:56.127Z - normal: Run Application
+2016-12-03T09:27:10.031Z - success: preview server running at http://localhost:7456
+2016-12-03T09:27:10.031Z - normal: Compiling scripts...
+2016-12-03T09:27:13.329Z - normal: Compiled successfully
+2016-12-03T09:27:18.410Z - normal: 1.3.2
+2016-12-03T09:27:19.833Z - warn: The type of "myPasswordInput.focus" must be cc.Boolean, not Boolean.
+2016-12-03T09:27:19.837Z - warn: The type of "myHeadAtlas.realTexture" must be cc.String, not String.

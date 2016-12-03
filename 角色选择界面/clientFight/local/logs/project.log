@@ -1,0 +1,51 @@
+2016-12-03T08:45:50.720Z - normal: Load ~/.CocosCreator/settings.json
+2016-12-03T08:45:50.725Z - normal: checking language setting...
+2016-12-03T08:45:50.726Z - normal: Language: zh
+2016-12-03T08:45:51.820Z - success: protocol editor-framework registered
+2016-12-03T08:45:51.820Z - success: protocol app registered
+2016-12-03T08:45:51.820Z - success: protocol packages registered
+2016-12-03T08:45:51.820Z - success: protocol theme registered
+2016-12-03T08:45:51.821Z - success: protocol unpack registerred
+2016-12-03T08:45:52.042Z - normal: connected!
+2016-12-03T08:45:52.045Z - normal: Check project C:\Users\huangyoucai\Desktop\角色选择界面\clientFight
+2016-12-03T08:45:52.048Z - normal: Initializing Cocos Creator Editor
+2016-12-03T08:45:55.175Z - normal: Initializing Cocos2d
+2016-12-03T08:45:56.541Z - normal: Initializing Asset Database
+2016-12-03T08:45:56.670Z - success: protocol uuid registerred
+2016-12-03T08:45:56.671Z - success: protocol db registerred
+2016-12-03T08:45:56.671Z - success: protocol thumbnail registerred
+2016-12-03T08:45:56.671Z - normal: Loading editor/builtin packages
+2016-12-03T08:45:57.960Z - success: assets loaded
+2016-12-03T08:45:58.017Z - success: builder loaded
+2016-12-03T08:45:58.126Z - success: hierarchy loaded
+2016-12-03T08:45:58.462Z - success: inspector loaded
+2016-12-03T08:45:58.463Z - success: keystore loaded
+2016-12-03T08:45:58.645Z - success: node-library loaded
+2016-12-03T08:45:58.648Z - success: preferences loaded
+2016-12-03T08:45:58.848Z - success: project-importer loaded
+2016-12-03T08:45:58.850Z - success: project-settings loaded
+2016-12-03T08:45:58.909Z - success: ui-kit loaded
+2016-12-03T08:45:58.942Z - success: ui-grid loaded
+2016-12-03T08:45:59.006Z - success: scene loaded
+2016-12-03T08:45:59.038Z - success: sprite-editor loaded
+2016-12-03T08:45:59.139Z - success: timeline loaded
+2016-12-03T08:45:59.139Z - normal: Loading builtin packages
+2016-12-03T08:45:59.142Z - success: asset-db-debugger loaded
+2016-12-03T08:45:59.143Z - success: code-editor loaded
+2016-12-03T08:45:59.173Z - success: color-picker loaded
+2016-12-03T08:45:59.274Z - success: console loaded
+2016-12-03T08:45:59.342Z - success: package-manager loaded
+2016-12-03T08:45:59.409Z - success: tester loaded
+2016-12-03T08:45:59.442Z - success: ui-kit-preview-extra loaded
+2016-12-03T08:45:59.474Z - success: ui-kit-preview loaded
+2016-12-03T08:45:59.510Z - success: ui-tree loaded
+2016-12-03T08:45:59.745Z - normal: Initializing project C:\Users\huangyoucai\Desktop\角色选择界面\clientFight
+2016-12-03T08:45:59.749Z - normal: Loading packages
+2016-12-03T08:45:59.753Z - normal: Watching packages
+2016-12-03T08:45:59.808Z - normal: Run Application
+2016-12-03T08:46:03.269Z - success: preview server running at http://localhost:7456
+2016-12-03T08:46:10.662Z - normal: 1.3.2
+2016-12-03T08:46:11.897Z - warn: The type of "myPasswordInput.focus" must be cc.Boolean, not Boolean.
+2016-12-03T09:16:22.773Z - normal: Compiled successfully
+2016-12-03T09:16:22.932Z - warn: The type of "myPasswordInput.focus" must be cc.Boolean, not Boolean.
+2016-12-03T09:24:15.241Z - info: shutdown preview server

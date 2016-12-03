@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "loginHoverBtn",
+    "texture": "69aafacd-c443-4ffd-856b-1c0fc70fa76b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      65,
+      17
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      65,
+      17
+    ],
+    "rotated": 0
+  }
+}

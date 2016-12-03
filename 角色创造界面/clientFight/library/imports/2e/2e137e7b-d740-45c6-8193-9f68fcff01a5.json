@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nextNormBtn",
+    "texture": "d7a7e1f0-b1ef-4326-863e-efa2ec716067",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      66,
+      17
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      66,
+      17
+    ],
+    "rotated": 0
+  }
+}

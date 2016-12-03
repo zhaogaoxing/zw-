@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fireBar",
+    "texture": "b3bca98e-c159-44b1-9bca-37b8347c6f62",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      99,
+      15
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      99,
+      15
+    ],
+    "rotated": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "createHoverBtn",
+    "texture": "bcfb357b-722c-4a7b-83e8-b1570d41f935",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      65,
+      17
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      65,
+      17
+    ],
+    "rotated": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rightPressBtn",
+    "texture": "6f1fd8e5-07a8-49da-9aec-d932f209436b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      9,
+      13
+    ],
+    "offset": [
+      -1.5,
+      0
+    ],
+    "originalSize": [
+      12,
+      13
+    ],
+    "rotated": 0
+  }
+}

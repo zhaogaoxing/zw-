@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "minusNormBtn",
+    "texture": "c5be84cb-6243-4f93-8f2e-6fb9eac84a30",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      11,
+      11
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      12,
+      11
+    ],
+    "rotated": 0
+  }
+}

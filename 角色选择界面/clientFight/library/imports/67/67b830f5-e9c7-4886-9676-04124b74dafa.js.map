@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": "AAAA,EAAE,CAAC,KAAK,CAAC;AACL,eAAS,EAAE,CAAC,SAAS;;AAErB,cAAU,EAAE;;;;;KAKX;;AAED,UAAM,EAAE,kBAAY;AAChB,UAAE,CAAC,IAAI,CAAC,kBAAkB,CAAC,IAAI,CAAC,IAAI,CAAC,CAAC;AACtC,YAAI,CAAC,GAAG,GAAG,IAAI,CAAC,IAAI,CAAC,cAAc,CAAC,KAAK,CAAC,CAAC,YAAY,CAAC,EAAE,CAAC,KAAK,CAAC,CAAC;AAClE,eAAO,CAAC,GAAG,CAAC,IAAI,CAAC,GAAG,CAAC,MAAM,CAAC,CAAC;KAChC;;AAED,WAAO,EAAE,iBAAS,GAAG,EAAC;AAClB,YAAI,CAAC,GAAG,CAAC,MAAM,GAAG,GAAG,CAAC;AACtB,YAAI,CAAC,IAAI,CAAC,MAAM,GAAG,IAAI,CAAC;AACxB,YAAI,CAAC,YAAY,CAAC,EAAE,CAAC,SAAS,CAAC,CAAC,IAAI,CAAC,SAAS,CAAC,CAAC;KACnD;;AAED,eAAW,EAAE,qBAAS,GAAG,EAAC;AACtB,YAAI,CAAC,GAAG,CAAC,MAAM,GAAG,GAAG,CAAC;AACtB,YAAI,CAAC,IAAI,CAAC,MAAM,GAAG,IAAI,CAAC;AACxB,YAAI,CAAC,YAAY,CAAC,EAAE,CAAC,SAAS,CAAC,CAAC,IAAI,CAAC,aAAa,CAAC,CAAC;KACvD;;AAED,YAAQ,EAAE,oBAAU;AAChB,YAAI,CAAC,IAAI,CAAC,MAAM,GAAG,KAAK,CAAC;KAC5B;;CAKJ,CAAC,CAAC",
+  "file": "unknown",
+  "sourcesContent": [
+    "cc.Class({\r\n    extends: cc.Component,\r\n\r\n    properties: {\r\n        // msg: {\r\n        //     default: null,\r\n        //     type: cc.Label,\r\n        // }\r\n    },\r\n\r\n    onLoad: function () {\r\n        cc.game.addPersistRootNode(this.node);\r\n        this.msg = this.node.getChildByName('msg').getComponent(cc.Label);\r\n        console.log(this.msg.string);\r\n    },\r\n\r\n    preShow: function(msg){\r\n        this.msg.string = msg;\r\n        this.node.active = true;\r\n        this.getComponent(cc.Animation).play('preShow');\r\n    },\r\n    \r\n    preAutoHide: function(msg){\r\n        this.msg.string = msg;\r\n        this.node.active = true;\r\n        this.getComponent(cc.Animation).play('preAutoHide');\r\n    },\r\n    \r\n    postShow: function(){\r\n        this.node.active = false;\r\n    },\r\n    \r\n    // update: function (dt) {\r\n\r\n    // },\r\n});\r\n"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "waterBar",
+    "texture": "9ea360d8-de41-4454-9a40-9f6f122a8587",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      99,
+      15
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      99,
+      15
+    ],
+    "rotated": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "windBar",
+    "texture": "af85dbb7-825c-4207-bb5c-b12ae26c16c0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      99,
+      15
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      99,
+      15
+    ],
+    "rotated": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nextHoverBtn",
+    "texture": "1afdb34d-628c-446a-b842-b8efe946476e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      66,
+      17
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      66,
+      17
+    ],
+    "rotated": 0
+  }
+}

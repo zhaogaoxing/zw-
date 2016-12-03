@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "earthBar",
+    "texture": "324ddb4d-5636-448c-92d4-a3f2c888a0fa",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      99,
+      15
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      99,
+      15
+    ],
+    "rotated": 0
+  }
+}

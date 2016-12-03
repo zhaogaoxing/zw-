@@ -1,0 +1,233 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "head300.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "girl000": {
+      "__uuid__": "570ad827-dc44-414d-9104-846ed16129aa"
+    },
+    "girl001": {
+      "__uuid__": "04b10572-d111-468a-9442-1219c198f7d7"
+    },
+    "girl002": {
+      "__uuid__": "b75c075d-3a4d-4c1e-9781-00b4ff0d5e60"
+    },
+    "girl003": {
+      "__uuid__": "6976e94d-f6a8-414a-b1ef-9d2ce83efe2d"
+    },
+    "girl004": {
+      "__uuid__": "5ed46a43-0a1e-4300-a669-761a48e0c2a2"
+    },
+    "girl010": {
+      "__uuid__": "44b9a302-68bb-41e0-aac6-87c0f150dbe1"
+    },
+    "girl011": {
+      "__uuid__": "a2321123-1b12-41f5-a3b9-336611de701f"
+    },
+    "girl012": {
+      "__uuid__": "b00d3e3e-751a-4abb-b6b1-ebc6925280ee"
+    },
+    "girl013": {
+      "__uuid__": "2162b9b1-1dfe-4b35-bfc1-7f642f422ef7"
+    },
+    "girl014": {
+      "__uuid__": "4a0269e5-b0b5-4e8d-ba86-0116872e41e1"
+    },
+    "girl020": {
+      "__uuid__": "3b51fb95-729b-4251-940f-7fbd64fb143d"
+    },
+    "girl021": {
+      "__uuid__": "cd64baea-e435-49c8-a193-11162f218758"
+    },
+    "girl022": {
+      "__uuid__": "6a5f14fa-32d5-4204-94c7-c990b779ba2d"
+    },
+    "girl023": {
+      "__uuid__": "804cc1a9-29a5-42c3-b8f8-8fbce2fa3b55"
+    },
+    "girl024": {
+      "__uuid__": "23933af5-e196-4e52-89c5-db5b0d50c370"
+    },
+    "girl030": {
+      "__uuid__": "9f940fdf-5f92-4711-8dcc-8048a6a2ce2b"
+    },
+    "girl031": {
+      "__uuid__": "9d89763a-251d-416e-8e11-036def3dc2c7"
+    },
+    "girl032": {
+      "__uuid__": "12e159ff-5193-4245-af7b-bcad6149d121"
+    },
+    "girl033": {
+      "__uuid__": "46ee9add-1a44-495d-9315-f57c367bfdc8"
+    },
+    "girl034": {
+      "__uuid__": "09f516ad-31d6-4f9a-92f4-b0e775ce32d8"
+    },
+    "girl040": {
+      "__uuid__": "cf0739d1-5e18-48b7-b6e2-1f16a484ef2d"
+    },
+    "girl041": {
+      "__uuid__": "4b27c81c-9698-431a-b00b-15a5432155b4"
+    },
+    "girl042": {
+      "__uuid__": "135bf0e7-8e1d-4c7a-9e32-97647ab3a6a4"
+    },
+    "girl043": {
+      "__uuid__": "9759003f-2d14-4c3f-bfc8-fd0bf8eb2066"
+    },
+    "girl044": {
+      "__uuid__": "19ba0ca5-5de9-404f-9f70-e8ba5bf07dd5"
+    },
+    "girl100": {
+      "__uuid__": "9204211d-7887-4ac4-8c12-8fa017c29e4d"
+    },
+    "girl101": {
+      "__uuid__": "099610ba-2d07-4a68-9896-1cd8e413b4a0"
+    },
+    "girl102": {
+      "__uuid__": "2fbdcc80-7f13-4e4b-8fd9-d370e6d08941"
+    },
+    "girl103": {
+      "__uuid__": "3389e8bd-c26b-471b-b79f-e12618c94e42"
+    },
+    "girl104": {
+      "__uuid__": "145536dc-a496-4175-8239-23990cf1597f"
+    },
+    "girl110": {
+      "__uuid__": "38be5f38-f10c-4b55-a74a-9cd54c61a688"
+    },
+    "girl111": {
+      "__uuid__": "00d21856-e258-48b3-a80b-5fd58c4550da"
+    },
+    "girl112": {
+      "__uuid__": "b74c13e9-4a8e-4994-a027-9d86e4903dee"
+    },
+    "girl113": {
+      "__uuid__": "dec33e31-c987-4f5e-ae2f-be5f37d58d31"
+    },
+    "girl114": {
+      "__uuid__": "987eedf2-9ee4-473d-b7ec-f73585530bcb"
+    },
+    "girl120": {
+      "__uuid__": "cd96924f-3259-4854-930a-34ff9c389df7"
+    },
+    "girl121": {
+      "__uuid__": "f3fdab99-99f8-490d-8196-05d8a5a2e333"
+    },
+    "girl122": {
+      "__uuid__": "4bdaf898-8214-4698-b604-095af83fea4f"
+    },
+    "girl123": {
+      "__uuid__": "3cbf516b-b153-4a58-b94f-5280d7d7a9a7"
+    },
+    "girl124": {
+      "__uuid__": "03a4eb63-fc6e-4a5f-a1a1-a914e433c830"
+    },
+    "girl130": {
+      "__uuid__": "d5e39fab-a25f-4d45-b7d9-6dd4418c0528"
+    },
+    "girl131": {
+      "__uuid__": "9d9197ca-8358-4461-9f4f-b49f656446f2"
+    },
+    "girl132": {
+      "__uuid__": "7b2a036a-15d5-41a1-934d-b8987ef99d1b"
+    },
+    "girl133": {
+      "__uuid__": "70607af5-ad1a-44de-9c77-40c1c8c394c6"
+    },
+    "girl134": {
+      "__uuid__": "5c10c200-2de4-4e95-afef-59e77d3f81e7"
+    },
+    "girl140": {
+      "__uuid__": "7ae113ff-da3e-4a0b-9be6-d9f907e980b4"
+    },
+    "girl141": {
+      "__uuid__": "f405bcd3-8834-4094-a40f-60a26693162e"
+    },
+    "girl142": {
+      "__uuid__": "60dd20fe-851f-4dfe-ae3a-bf66e6e811a6"
+    },
+    "girl143": {
+      "__uuid__": "4b07921d-24b1-4cce-a1eb-8a4235b3168c"
+    },
+    "girl144": {
+      "__uuid__": "ccd5c247-c3d5-4607-95d5-925cb2e2e8b4"
+    },
+    "girl200": {
+      "__uuid__": "7d932745-264e-4792-89c0-08f3864ebfc5"
+    },
+    "girl201": {
+      "__uuid__": "b601ee74-f23f-4b88-b95b-a59b739e7f24"
+    },
+    "girl202": {
+      "__uuid__": "a0e06493-017b-42b7-9f82-68571a140931"
+    },
+    "girl203": {
+      "__uuid__": "1128ea9f-500a-49c0-aa51-dc254b0a5da1"
+    },
+    "girl204": {
+      "__uuid__": "b09660ce-fed3-4419-ae28-3f1574d22062"
+    },
+    "girl210": {
+      "__uuid__": "3ea898ef-2558-4e9e-9556-6e9b5650d108"
+    },
+    "girl211": {
+      "__uuid__": "d583911a-ae0f-4b12-bc98-a935f46dc549"
+    },
+    "girl212": {
+      "__uuid__": "3caf699f-a2dd-4949-8b6a-f96cc94530fd"
+    },
+    "girl213": {
+      "__uuid__": "67eb9a08-9ca4-4413-86c8-767f1116280e"
+    },
+    "girl214": {
+      "__uuid__": "3b0e4128-a612-4315-9d0e-bd1d6a24377b"
+    },
+    "girl220": {
+      "__uuid__": "7097d003-7a31-46a5-b740-2029b87c3899"
+    },
+    "girl221": {
+      "__uuid__": "d5cb6031-b7b0-47a1-8ade-d791c915c9a0"
+    },
+    "girl222": {
+      "__uuid__": "b27c7d34-4c51-42e7-835e-6ce497a137ee"
+    },
+    "girl223": {
+      "__uuid__": "3f6c79a4-fe30-4703-be35-429b11d254c3"
+    },
+    "girl224": {
+      "__uuid__": "01d7ce10-e835-41c2-b115-8d42c279075c"
+    },
+    "girl230": {
+      "__uuid__": "aa1c5187-69a6-4f64-bc61-8ca47bffb317"
+    },
+    "girl231": {
+      "__uuid__": "4c302f4e-4a1f-4778-9990-24fe6770ad2c"
+    },
+    "girl232": {
+      "__uuid__": "d05b41c6-b8e7-4802-82be-9b7ac8ab3611"
+    },
+    "girl233": {
+      "__uuid__": "5b60ef4a-3a16-4e91-a5f4-e1a5b6ffb0f4"
+    },
+    "girl234": {
+      "__uuid__": "5ecb4271-cdd9-4df9-8d17-7eb5f28dd4b4"
+    },
+    "girl240": {
+      "__uuid__": "af6506dd-d974-43ce-9d36-78960fde53b0"
+    },
+    "girl241": {
+      "__uuid__": "d1a20f9f-fcd4-44a2-b477-9ae8799c003b"
+    },
+    "girl242": {
+      "__uuid__": "df80fe99-bba3-4faf-a5a0-2f7fc9f571b0"
+    },
+    "girl243": {
+      "__uuid__": "eb398bd9-097c-44ac-9d10-11d91d4cb21a"
+    },
+    "girl244": {
+      "__uuid__": "20913460-0fb1-4095-8461-178c856e10a5"
+    }
+  }
+}

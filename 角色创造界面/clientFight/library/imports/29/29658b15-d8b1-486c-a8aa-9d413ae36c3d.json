@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "leftNormBtn",
+    "texture": "0df5b183-14f1-4900-afab-f90485480539",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      9,
+      13
+    ],
+    "offset": [
+      -1.5,
+      0
+    ],
+    "originalSize": [
+      12,
+      13
+    ],
+    "rotated": 0
+  }
+}

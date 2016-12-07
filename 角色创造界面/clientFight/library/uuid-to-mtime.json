@@ -240,8 +240,8 @@
     "relativePath": "msgBoxSrc\\anim\\msgBox\\preAutoHide.anim"
   },
   "e04fceb4-97fa-4f44-bde4-90c320c9d27a": {
-    "asset": 1455520756993,
-    "meta": 1480757229268,
+    "asset": 1481013497295,
+    "meta": 1481013497299,
     "relativePath": "serverSceneSrc\\Scene\\serverScene.fire"
   },
   "29bd69ff-9fca-4cb4-abf5-6c22af7f1484": {
@@ -305,8 +305,8 @@
     "relativePath": "heroChooseSceneSrc\\image"
   },
   "3f312b98-fbd7-4664-bae1-512f1faf5796": {
-    "asset": 1455604278940,
-    "meta": 1480757218330,
+    "asset": 1481018501866,
+    "meta": 1481018501935,
     "relativePath": "heroChooseSceneSrc\\Scene\\heroChooseScene.fire"
   },
   "3bf3273d-6703-4f03-b4de-851b7f7f3b32": {
@@ -1363,5 +1363,20 @@
     "asset": 1479702546000,
     "meta": 1480757216836,
     "relativePath": "prefab\\webview.prefab"
+  },
+  "3828bde4-d494-445c-9302-9a4db0e569c1": {
+    "asset": 1481013458243,
+    "meta": 1481013462965,
+    "relativePath": "serverSceneSrc\\script\\myServer_02.js"
+  },
+  "61606d86-1f5f-4048-8a8a-d863b22f64cc": {
+    "asset": 1481018454009,
+    "meta": 1481018454011,
+    "relativePath": "heroChooseSceneSrc\\script\\backBtn"
+  },
+  "175ef50d-9097-4b5e-9acb-35a657dc835e": {
+    "asset": 1481018512464,
+    "meta": 1481018534640,
+    "relativePath": "heroChooseSceneSrc\\script\\backBtn\\myBackBtn.js"
   }
 }

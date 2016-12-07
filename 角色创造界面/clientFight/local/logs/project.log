@@ -1,52 +1,134 @@
-2016-12-03T09:26:52.545Z - normal: Load ~/.CocosCreator/settings.json
-2016-12-03T09:26:52.558Z - normal: checking language setting...
-2016-12-03T09:26:52.558Z - normal: Language: zh
-2016-12-03T09:26:52.559Z - warn: Invalid layout profile, remove old profile and init a new one at: C:\Users\huangyoucai\Desktop\角色创造界面\clientFight\local\layout.windows.json
-2016-12-03T09:26:53.668Z - success: protocol editor-framework registered
-2016-12-03T09:26:53.668Z - success: protocol app registered
-2016-12-03T09:26:53.668Z - success: protocol packages registered
-2016-12-03T09:26:53.669Z - success: protocol theme registered
-2016-12-03T09:26:53.669Z - success: protocol unpack registerred
-2016-12-03T09:26:55.247Z - normal: connected!
-2016-12-03T09:26:55.249Z - normal: Check project C:\Users\huangyoucai\Desktop\角色创造界面\clientFight
-2016-12-03T09:26:55.253Z - normal: Initializing Cocos Creator Editor
-2016-12-03T09:26:55.615Z - normal: Initializing Cocos2d
-2016-12-03T09:26:55.840Z - normal: Initializing Asset Database
-2016-12-03T09:26:55.869Z - success: protocol uuid registerred
-2016-12-03T09:26:55.869Z - success: protocol db registerred
-2016-12-03T09:26:55.869Z - success: protocol thumbnail registerred
-2016-12-03T09:26:55.869Z - normal: Loading editor/builtin packages
-2016-12-03T09:26:55.998Z - success: assets loaded
-2016-12-03T09:26:56.000Z - success: builder loaded
-2016-12-03T09:26:56.003Z - success: hierarchy loaded
-2016-12-03T09:26:56.007Z - success: inspector loaded
-2016-12-03T09:26:56.008Z - success: keystore loaded
-2016-12-03T09:26:56.010Z - success: node-library loaded
-2016-12-03T09:26:56.013Z - success: preferences loaded
-2016-12-03T09:26:56.026Z - success: project-importer loaded
-2016-12-03T09:26:56.028Z - success: project-settings loaded
-2016-12-03T09:26:56.030Z - success: ui-kit loaded
-2016-12-03T09:26:56.032Z - success: ui-grid loaded
-2016-12-03T09:26:56.035Z - success: scene loaded
-2016-12-03T09:26:56.036Z - success: sprite-editor loaded
-2016-12-03T09:26:56.042Z - success: timeline loaded
-2016-12-03T09:26:56.042Z - normal: Loading builtin packages
-2016-12-03T09:26:56.046Z - success: asset-db-debugger loaded
-2016-12-03T09:26:56.047Z - success: code-editor loaded
-2016-12-03T09:26:56.048Z - success: color-picker loaded
-2016-12-03T09:26:56.050Z - success: console loaded
-2016-12-03T09:26:56.052Z - success: package-manager loaded
-2016-12-03T09:26:56.055Z - success: tester loaded
-2016-12-03T09:26:56.057Z - success: ui-kit-preview-extra loaded
-2016-12-03T09:26:56.059Z - success: ui-kit-preview loaded
-2016-12-03T09:26:56.061Z - success: ui-tree loaded
-2016-12-03T09:26:56.102Z - normal: Initializing project C:\Users\huangyoucai\Desktop\角色创造界面\clientFight
-2016-12-03T09:26:56.106Z - normal: Loading packages
-2016-12-03T09:26:56.111Z - normal: Watching packages
-2016-12-03T09:26:56.127Z - normal: Run Application
-2016-12-03T09:27:10.031Z - success: preview server running at http://localhost:7456
-2016-12-03T09:27:10.031Z - normal: Compiling scripts...
-2016-12-03T09:27:13.329Z - normal: Compiled successfully
-2016-12-03T09:27:18.410Z - normal: 1.3.2
-2016-12-03T09:27:19.833Z - warn: The type of "myPasswordInput.focus" must be cc.Boolean, not Boolean.
-2016-12-03T09:27:19.837Z - warn: The type of "myHeadAtlas.realTexture" must be cc.String, not String.
+2016-12-06T06:57:19.427Z - normal: Load ~/.CocosCreator/settings.json
+2016-12-06T06:57:19.432Z - normal: checking language setting...
+2016-12-06T06:57:19.433Z - normal: Language: zh
+2016-12-06T06:57:20.526Z - success: protocol editor-framework registered
+2016-12-06T06:57:20.526Z - success: protocol app registered
+2016-12-06T06:57:20.526Z - success: protocol packages registered
+2016-12-06T06:57:20.526Z - success: protocol theme registered
+2016-12-06T06:57:20.526Z - success: protocol unpack registerred
+2016-12-06T06:57:20.746Z - normal: connected!
+2016-12-06T06:57:20.749Z - normal: Check project C:\Users\huangyoucai\Desktop\我的RPG\角色创造界面\clientFight
+2016-12-06T06:57:20.751Z - normal: Initializing Cocos Creator Editor
+2016-12-06T06:57:20.990Z - normal: Initializing Cocos2d
+2016-12-06T06:57:21.150Z - normal: Initializing Asset Database
+2016-12-06T06:57:21.172Z - success: protocol uuid registerred
+2016-12-06T06:57:21.172Z - success: protocol db registerred
+2016-12-06T06:57:21.172Z - success: protocol thumbnail registerred
+2016-12-06T06:57:21.172Z - normal: Loading editor/builtin packages
+2016-12-06T06:57:21.270Z - success: assets loaded
+2016-12-06T06:57:21.271Z - success: builder loaded
+2016-12-06T06:57:21.273Z - success: hierarchy loaded
+2016-12-06T06:57:21.275Z - success: inspector loaded
+2016-12-06T06:57:21.276Z - success: keystore loaded
+2016-12-06T06:57:21.278Z - success: node-library loaded
+2016-12-06T06:57:21.279Z - success: preferences loaded
+2016-12-06T06:57:21.290Z - success: project-importer loaded
+2016-12-06T06:57:21.291Z - success: project-settings loaded
+2016-12-06T06:57:21.292Z - success: ui-kit loaded
+2016-12-06T06:57:21.293Z - success: ui-grid loaded
+2016-12-06T06:57:21.296Z - success: scene loaded
+2016-12-06T06:57:21.296Z - success: sprite-editor loaded
+2016-12-06T06:57:21.300Z - success: timeline loaded
+2016-12-06T06:57:21.300Z - normal: Loading builtin packages
+2016-12-06T06:57:21.302Z - success: asset-db-debugger loaded
+2016-12-06T06:57:21.303Z - success: code-editor loaded
+2016-12-06T06:57:21.303Z - success: color-picker loaded
+2016-12-06T06:57:21.306Z - success: console loaded
+2016-12-06T06:57:21.307Z - success: package-manager loaded
+2016-12-06T06:57:21.308Z - success: tester loaded
+2016-12-06T06:57:21.309Z - success: ui-kit-preview-extra loaded
+2016-12-06T06:57:21.310Z - success: ui-kit-preview loaded
+2016-12-06T06:57:21.311Z - success: ui-tree loaded
+2016-12-06T06:57:21.342Z - normal: Initializing project C:\Users\huangyoucai\Desktop\我的RPG\角色创造界面\clientFight
+2016-12-06T06:57:21.345Z - normal: Loading packages
+2016-12-06T06:57:21.349Z - normal: Watching packages
+2016-12-06T06:57:21.359Z - normal: Run Application
+2016-12-06T06:57:22.232Z - success: preview server running at http://localhost:7456
+2016-12-06T06:57:27.409Z - normal: 1.3.2
+2016-12-06T06:57:28.573Z - warn: The type of "myPasswordInput.focus" must be cc.Boolean, not Boolean.
+2016-12-06T06:57:28.575Z - warn: The type of "myHeadAtlas.realTexture" must be cc.String, not String.
+2016-12-06T08:35:04.529Z - normal: Compiled successfully
+2016-12-06T08:35:04.699Z - warn: The type of "myPasswordInput.focus" must be cc.Boolean, not Boolean.
+2016-12-06T08:35:04.703Z - warn: The type of "myHeadAtlas.realTexture" must be cc.String, not String.
+2016-12-06T08:35:16.263Z - normal: Compiled successfully
+2016-12-06T08:35:16.442Z - warn: The type of "myPasswordInput.focus" must be cc.Boolean, not Boolean.
+2016-12-06T08:35:16.444Z - warn: The type of "myHeadAtlas.realTexture" must be cc.String, not String.
+2016-12-06T08:37:45.717Z - normal: Compiled successfully
+2016-12-06T08:37:45.875Z - warn: The type of "myPasswordInput.focus" must be cc.Boolean, not Boolean.
+2016-12-06T08:37:45.877Z - warn: The type of "myHeadAtlas.realTexture" must be cc.String, not String.
+2016-12-06T08:38:00.505Z - warn: Failed to set property server_02<myServer_01> to [object Object] at __scriptAsset, TypeError: Cannot set property __scriptAsset of #<cc_Component> which has only a getter
+    at setAsset (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:804)
+    at setByUuid (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:1014)
+    at _setPropertyByPath (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:1899)
+    at setDeepPropertyByPath (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:4019)
+    at Object.Editor.setPropertyByPath (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:5516)
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:13492
+    at Object.setProperty (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:13727)
+    at editor-scene.scene:set-property (file:///F:/zhaogaoxing/cocoscreator/CocosCreator/resources/app.asar/editor/builtin/scene/panel/scene.js:1:8211)
+    at Object.Panel._dispatch (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:2294)
+    at EventEmitter.<anonymous> (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4943)
+2016-12-06T08:38:02.007Z - warn: Failed to set property server_02<myServer_01> to [object Object] at __scriptAsset, TypeError: Cannot set property __scriptAsset of #<cc_Component> which has only a getter
+    at setAsset (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:804)
+    at setByUuid (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:1014)
+    at _setPropertyByPath (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:1899)
+    at setDeepPropertyByPath (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:4019)
+    at Object.Editor.setPropertyByPath (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:5516)
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:13492
+    at Object.setProperty (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:13727)
+    at editor-scene.scene:set-property (file:///F:/zhaogaoxing/cocoscreator/CocosCreator/resources/app.asar/editor/builtin/scene/panel/scene.js:1:8211)
+    at Object.Panel._dispatch (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:2294)
+    at EventEmitter.<anonymous> (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4943)
+2016-12-06T08:38:02.545Z - warn: Failed to set property server_02<myServer_01> to [object Object] at __scriptAsset, TypeError: Cannot set property __scriptAsset of #<cc_Component> which has only a getter
+    at setAsset (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:804)
+    at setByUuid (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:1014)
+    at _setPropertyByPath (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:1899)
+    at setDeepPropertyByPath (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:4019)
+    at Object.Editor.setPropertyByPath (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:5516)
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:13492
+    at Object.setProperty (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:13727)
+    at editor-scene.scene:set-property (file:///F:/zhaogaoxing/cocoscreator/CocosCreator/resources/app.asar/editor/builtin/scene/panel/scene.js:1:8211)
+    at Object.Panel._dispatch (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:2294)
+    at EventEmitter.<anonymous> (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4943)
+2016-12-06T08:38:02.992Z - warn: Failed to set property server_02<myServer_01> to [object Object] at __scriptAsset, TypeError: Cannot set property __scriptAsset of #<cc_Component> which has only a getter
+    at setAsset (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:804)
+    at setByUuid (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:1014)
+    at _setPropertyByPath (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:1899)
+    at setDeepPropertyByPath (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:4019)
+    at Object.Editor.setPropertyByPath (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:5516)
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:13492
+    at Object.setProperty (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:13727)
+    at editor-scene.scene:set-property (file:///F:/zhaogaoxing/cocoscreator/CocosCreator/resources/app.asar/editor/builtin/scene/panel/scene.js:1:8211)
+    at Object.Panel._dispatch (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:2294)
+    at EventEmitter.<anonymous> (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4943)
+2016-12-06T08:38:03.359Z - warn: Failed to set property server_02<myServer_01> to [object Object] at __scriptAsset, TypeError: Cannot set property __scriptAsset of #<cc_Component> which has only a getter
+    at setAsset (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:804)
+    at setByUuid (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:1014)
+    at _setPropertyByPath (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:1899)
+    at setDeepPropertyByPath (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:4019)
+    at Object.Editor.setPropertyByPath (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:5516)
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:13492
+    at Object.setProperty (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:13727)
+    at editor-scene.scene:set-property (file:///F:/zhaogaoxing/cocoscreator/CocosCreator/resources/app.asar/editor/builtin/scene/panel/scene.js:1:8211)
+    at Object.Panel._dispatch (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:2294)
+    at EventEmitter.<anonymous> (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4943)
+2016-12-06T08:38:03.974Z - warn: Failed to set property server_02<myServer_01> to [object Object] at __scriptAsset, TypeError: Cannot set property __scriptAsset of #<cc_Component> which has only a getter
+    at setAsset (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:804)
+    at setByUuid (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:1014)
+    at _setPropertyByPath (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:1899)
+    at setDeepPropertyByPath (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:4019)
+    at Object.Editor.setPropertyByPath (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:5516)
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:13492
+    at Object.setProperty (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:13727)
+    at editor-scene.scene:set-property (file:///F:/zhaogaoxing/cocoscreator/CocosCreator/resources/app.asar/editor/builtin/scene/panel/scene.js:1:8211)
+    at Object.Panel._dispatch (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:2294)
+    at EventEmitter.<anonymous> (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4943)
+2016-12-06T10:01:18.376Z - normal: Compiled successfully
+2016-12-06T10:01:18.535Z - warn: The type of "myPasswordInput.focus" must be cc.Boolean, not Boolean.
+2016-12-06T10:01:18.537Z - warn: The type of "myHeadAtlas.realTexture" must be cc.String, not String.
+2016-12-06T10:01:42.780Z - normal: Compiled successfully
+2016-12-06T10:01:42.949Z - warn: The type of "myPasswordInput.focus" must be cc.Boolean, not Boolean.
+2016-12-06T10:01:42.953Z - warn: The type of "myHeadAtlas.realTexture" must be cc.String, not String.
+2016-12-06T10:02:17.573Z - normal: Compiled successfully
+2016-12-06T10:02:17.731Z - warn: The type of "myPasswordInput.focus" must be cc.Boolean, not Boolean.
+2016-12-06T10:02:17.733Z - warn: The type of "myHeadAtlas.realTexture" must be cc.String, not String.
+2016-12-06T12:45:12.323Z - info: shutdown preview server

@@ -2,10 +2,59 @@
   "version": "1.1.0",
   "windows": {
     "main": {
-      "x": 484,
-      "y": 177,
+      "x": 367,
+      "y": 100,
       "width": 1280,
-      "height": 720
+      "height": 720,
+      "layout": {
+        "children": [
+          {
+            "children": [
+              {
+                "active": 0,
+                "children": [
+                  "hierarchy"
+                ],
+                "height": 297,
+                "type": "panel",
+                "width": 305
+              },
+              {
+                "active": 0,
+                "children": [
+                  "assets"
+                ],
+                "height": 669,
+                "type": "panel",
+                "width": 305
+              }
+            ],
+            "height": 969,
+            "type": "dock-v",
+            "width": 305
+          },
+          {
+            "active": 0,
+            "children": [
+              "scene"
+            ],
+            "height": 969,
+            "type": "panel",
+            "width": 1146
+          },
+          {
+            "active": 0,
+            "children": [
+              "inspector"
+            ],
+            "height": 969,
+            "type": "panel",
+            "width": 457
+          }
+        ],
+        "snapshot": true,
+        "type": "dock-h"
+      }
     }
   }
 }
